@@ -1,0 +1,16 @@
+black #010101;
+
+gray #898989;
+
+blue #313841;
+
+
+<section class="margin2">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        
+      </div>
+    </div>
+  </div>
+</section>
